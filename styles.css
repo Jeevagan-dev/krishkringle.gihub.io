@@ -1,0 +1,140 @@
+.navi{
+  font-family: Ubuntu;
+  font-size: 1.5rem;
+  line-height: 1.5;
+  font-weight: bold;
+}
+li{
+  padding: 0 10px;
+}
+a.navbar-brand{
+  font-family: 'Kaushan Script', cursive;
+  color: red;
+}
+
+#start{
+  align-items: center;
+  padding: 7%;
+}
+.head{
+  font-family: Montserrat;
+  font-size: 3rem;
+  line-height: 1.5;
+  color: white;
+  font-weight: bolder;
+
+}
+h1{
+  font-family: Montserrat;
+  font-size: 3rem;
+  line-height: 1.5;
+  color: white;
+  font-weight: bolder;
+}
+.head1{
+  font-family: Montserrat;
+  font-size: 1rem;
+  color: #F0F0F0	;
+
+}
+.btn-lg{
+  padding: 20px;
+
+}
+@media only screen and (max-width:600px) {
+  .navi{
+    font-family: Ubuntu;
+    font-size: 1rem;
+    line-height: 1.5;
+
+  }
+.temp{
+  max-width: 80%;
+  color: white;
+  font-size: 0.9rem;
+  line-height: 1.5;
+  margin: auto;
+  font-family: Ubuntu;
+}
+  .head,.fa-xl{
+    font-family: Montserrat;
+    font-size: 2rem;
+    line-height: 1.2;
+    color: white;
+    font-weight: bolder;
+  }
+
+.santa{
+  width: 300px;
+  height: 300px;
+  margin-top: 10%;
+}
+
+}
+.second{
+  background-color: #131519;
+  text-align: center;
+  padding: 20px;
+}
+.ab-img{
+  border-radius: 50%;
+  margin:  5%;
+}
+h3{
+  color: white;
+  max-width: 60%;
+  font-size: 1rem;
+  line-height: 1.5;
+  margin: auto;
+  font-family: Ubuntu;
+}
+.red{
+  color: red;
+
+}
+.dec{
+  text-decoration: none;
+  color: white;
+}
+.dec:hover{
+  text-decoration: none;
+  color: black;
+}
+.rome{
+  margin:20px 0;
+}
+
+
+/* Tokenomics */
+
+#Tokenomics{
+  text-align: center;
+  font-family: Montserrat;
+  font-size: 2rem;
+  line-height: 1.2;
+  color: white;
+  font-weight: bolder;
+}
+
+
+/* roadmap */
+#roadmap{
+  background-color: black;
+  padding: 5%;
+  color: white;
+}
+/* footer */
+#contact{
+  margin: 0;
+  padding: 5%;
+  text-align: center;
+  color: white;
+  font-family: Montserrat;
+}
+.fa-brands{
+  font-size: 2rem;
+  padding-bottom: 2%;
+}
+.brain{
+  font-family: Montserrat;
+}
